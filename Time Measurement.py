@@ -5,7 +5,7 @@ if __name__ == '__main__':
     start = time.time()
     
 
-    ###ここに操作を記入
+    ### Fill in the operation here
     
     
     
