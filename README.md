@@ -1,3 +1,4 @@
 # Code-Place
-Cord storage./n
+Cord storage.
+
 Various types of codes are stored
