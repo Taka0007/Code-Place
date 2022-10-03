@@ -1,7 +1,7 @@
 # Code-Place
 Hey, nice to meet you!
 
-Here is Cord storage.
+Here is Code storage.
 
 Various types of codes are stored.
 
