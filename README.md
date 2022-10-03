@@ -1,4 +1,7 @@
 # Code-Place
-Cord storage.
+Hey, nice to meet you!
 
-Various types of codes are stored
+Here is Cord storage.
+
+Various types of codes are stored.
+Feel free to take advantage of these codes!
